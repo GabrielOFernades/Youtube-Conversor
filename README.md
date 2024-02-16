@@ -2,7 +2,7 @@
 Um script python que te permite baixar vídeos do youtube em formato mp3 e mp4 diretamente da sua máquina
 
 ## Funcionamento
-Caso você tenha o python instalado em sua máquina, apenas precisa executar o script pelo CMD ou por um interpretador python
+Caso você tenha o python instalado em sua máquina, apenas precisa executar o script pelo CMD ou por um interpretador python.
 Será pedido uma resposta para as opções apresentadas e então o link do vídeo em questão, o link será convertido de acordo com a opção inserida
 
 ## Atenção
