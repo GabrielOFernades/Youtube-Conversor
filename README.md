@@ -1,5 +1,7 @@
 # Youtube-Conversor
 Um script python que te permite baixar vídeos do youtube em formato mp3 e mp4 diretamente da sua máquina
+(Obs: A biblioteca PYTUBE está com um erro para converter os vídeos a alguns meses {problema relatado por um de meus amigos, inclusive, vale a menção, obrigado Fernando}
+logo, esse código não está funcionando em sua plenitude. Assim que esse erro for corrigido lançarei um patch com o código totalmente funcional novamente)
 
 ## Funcionamento
 Caso você tenha o python instalado em sua máquina, apenas precisa executar o script pelo CMD ou por um interpretador python.
